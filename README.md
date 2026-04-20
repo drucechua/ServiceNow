@@ -1,6 +1,6 @@
 # ServiceNow HR Case Pipeline
 
-This lightweight pipeline prepares ServiceNow case exports for repeated analysis and Streamlit ingestion.
+Lightweight data pipeline that prepares ServiceNow case exports for repeated analysis and Streamlit ingestion.
 
 ## What it does
 - Reads `.xlsx` or `.csv` ServiceNow exports
@@ -12,6 +12,6 @@ This lightweight pipeline prepares ServiceNow case exports for repeated analysis
 - Flags aging cases (>7 days, >30 days)
 - Exports enriched case-level data and summary outputs
 
-## Run
+## To run
 ```bash
 python3 servicenow_pipeline.py /path/to/export.xlsx --output-dir ./output
