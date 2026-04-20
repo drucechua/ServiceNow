@@ -1,4 +1,3 @@
-````markdown
 # ServiceNow HR Case Pipeline
 
 This lightweight pipeline prepares ServiceNow case exports for repeated analysis and Streamlit ingestion.
