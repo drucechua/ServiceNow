@@ -1,0 +1,47 @@
+{
+  "row_count": 130,
+  "duplicate_rows_removed": 0,
+  "columns_available": [
+    "number",
+    "short_description",
+    "state",
+    "priority",
+    "subject_person",
+    "opened_for",
+    "created"
+  ],
+  "date_range": {
+    "min_created": "2026-02-19 01:58:28",
+    "max_created": "2026-04-17 12:53:01"
+  },
+  "state_counts": {
+    "Awaiting Acceptance": 108,
+    "Ready": 17,
+    "Work in Progress": 5
+  },
+  "priority_counts": {
+    "3 - Moderate": 110,
+    "4 - Low": 20
+  },
+  "category_counts": {
+    "Relocation & Shipment": 40,
+    "Other": 30,
+    "Immigration": 18,
+    "Employment & Contracts": 16,
+    "Documents & Certificates": 16,
+    "Travel & Expenses": 5,
+    "Training & Learning": 4,
+    "General Inquiry & Follow-up": 1
+  },
+  "signal_counts": {
+    "Normal": 121,
+    "Blocked / Waiting": 7,
+    "Frustrated / Follow-up": 1,
+    "KB Opportunity": 1
+  },
+  "aging": {
+    "older_than_7_days": 94,
+    "older_than_30_days": 1,
+    "average_age_days": 10.8
+  }
+}
